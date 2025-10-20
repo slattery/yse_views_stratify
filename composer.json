@@ -1,0 +1,6 @@
+{
+  "name": "slattery/yse_views_stratify",
+  "description": "Support for non-overlapping records in views displays for the same view",
+  "type": "drupal-custom-module",
+  "license": "GPL-2.0-or-later"
+}
