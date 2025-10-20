@@ -1,0 +1,7 @@
+name: 'YSE Views Stratify'
+type: module
+description: 'Provides convention-based view stratification to split results into exclusive and remainder sets.'
+package: 'Custom'
+core_version_requirement: ^10 || ^11
+dependencies:
+  - drupal:views

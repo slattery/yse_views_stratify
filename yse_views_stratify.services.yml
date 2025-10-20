@@ -1,0 +1,6 @@
+services:
+  yse_views_stratify.views_stratify:
+    class: Drupal\yse_views_stratify\Service\ViewsStratifyService
+    arguments:
+      - '@logger.factory'
+      - '@request_stack'
